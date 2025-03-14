@@ -18,7 +18,7 @@ Il progetto si compone di due programmi principali:
 1. **Clonare il repository**
    ```bash
    git clone https://github.com/tuo-username/Progetto_Linguistica_Computazionale.git
-   cd linguistica-computazionale
+   cd Progetto_Linguistica_Computazionale
    ```
 
 2. **Creare un ambiente virtuale (opzionale ma consigliato)**
