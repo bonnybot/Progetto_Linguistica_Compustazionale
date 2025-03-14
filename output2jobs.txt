@@ -1,0 +1,373 @@
+
+Progetto LC 2023/2024 | Alessandra Bottiglieri | 648769 | Programma II
+
+
+1) Top 50 sostantivi, avverbi e aggettivi più frequenti del file jobs.txt:
+
+Frequenza: 63	Token: just
+Frequenza: 52	Token: ve
+Frequenza: 51	Token: here
+Frequenza: 37	Token: phone
+Frequenza: 33	Token: s
+Frequenza: 28	Token: right
+Frequenza: 26	Token: ’
+Frequenza: 25	Token: so
+Frequenza: 25	Token: iPod
+Frequenza: 25	Token: So
+Frequenza: 22	Token: there
+Frequenza: 22	Token: Now
+Frequenza: 21	Token: iPhone
+Frequenza: 18	Token: t
+Frequenza: 18	Token: now
+Frequenza: 16	Token: s
+Frequenza: 16	Token: device
+Frequenza: 15	Token: mail
+Frequenza: 15	Token: call
+Frequenza: 13	Token: really
+Frequenza: 13	Token: re
+Frequenza: 13	Token: not
+Frequenza: 13	Token: back
+Frequenza: 12	Token: little
+Frequenza: 11	Token: voice
+Frequenza: 11	Token: revolutionary
+Frequenza: 11	Token: music
+Frequenza: 11	Token: e-mail
+Frequenza: 11	Token: button
+Frequenza: 10	Token: things
+Frequenza: 10	Token: mobile
+Frequenza: 10	Token: m
+Frequenza: 10	Token: great
+Frequenza: 9	Token: years
+Frequenza: 9	Token: re
+Frequenza: 9	Token: phones
+Frequenza: 9	Token: look
+Frequenza: 9	Token: first
+Frequenza: 9	Token: ever
+Frequenza: 9	Token: e-mail
+Frequenza: 9	Token: course
+Frequenza: 9	Token: again
+Frequenza: 8	Token: user
+Frequenza: 8	Token: time
+Frequenza: 8	Token: thing
+Frequenza: 8	Token: software
+Frequenza: 8	Token: screen
+Frequenza: 8	Token: number
+Frequenza: 8	Token: let
+Frequenza: 8	Token: app
+
+
+2) Top 20 n-grammi più frequenti del file jobs.txt:
+
+Top 20 1-grammi più frequenti
+Frequenza: 438	Token: ('.',)
+Frequenza: 387	Token: (',',)
+Frequenza: 280	Token: ('’',)
+Frequenza: 208	Token: ('I',)
+Frequenza: 171	Token: ('the',)
+Frequenza: 166	Token: ('to',)
+Frequenza: 153	Token: ('and',)
+Frequenza: 130	Token: ('a',)
+Frequenza: 124	Token: ('s',)
+Frequenza: 99	Token: ('it',)
+Frequenza: 81	Token: ('you',)
+Frequenza: 78	Token: ('we',)
+Frequenza: 72	Token: ('that',)
+Frequenza: 68	Token: ('can',)
+Frequenza: 67	Token: ('And',)
+Frequenza: 66	Token: ('is',)
+Frequenza: 65	Token: ('ve',)
+Frequenza: 63	Token: ('just',)
+Frequenza: 62	Token: ('got',)
+Frequenza: 61	Token: ('of',)
+
+Top 20 2-grammi più frequenti
+Frequenza: 124	Token: ('’', 's')
+Frequenza: 72	Token: (',', 'and')
+Frequenza: 66	Token: ('.', 'And')
+Frequenza: 65	Token: ('I', '’')
+Frequenza: 65	Token: ('’', 've')
+Frequenza: 48	Token: ('.', 'It')
+Frequenza: 48	Token: ('.', 'So')
+Frequenza: 45	Token: ('ve', 'got')
+Frequenza: 42	Token: ('I', 'can')
+Frequenza: 41	Token: ('want', 'to')
+Frequenza: 41	Token: (',', 'I')
+Frequenza: 37	Token: ('It', '’')
+Frequenza: 32	Token: ('’', 't')
+Frequenza: 31	Token: ('I', 'want')
+Frequenza: 31	Token: ('.', 'I')
+Frequenza: 29	Token: ('we', '’')
+Frequenza: 28	Token: ('going', 'to')
+Frequenza: 27	Token: ('’', 're')
+Frequenza: 27	Token: ('.', 'We')
+Frequenza: 25	Token: ('and', 'I')
+
+Top 20 3-grammi più frequenti
+Frequenza: 45	Token: ('’', 've', 'got')
+Frequenza: 37	Token: ('I', '’', 've')
+Frequenza: 37	Token: ('It', '’', 's')
+Frequenza: 34	Token: ('.', 'It', '’')
+Frequenza: 30	Token: ('I', 'want', 'to')
+Frequenza: 22	Token: ('it', '’', 's')
+Frequenza: 19	Token: ('let', '’', 's')
+Frequenza: 19	Token: ('I', '’', 'm')
+Frequenza: 18	Token: (',', 'and', 'I')
+Frequenza: 17	Token: ('.', 'Now', ',')
+Frequenza: 16	Token: ('we', '’', 've')
+Frequenza: 16	Token: ('ve', 'got', 'a')
+Frequenza: 16	Token: ('I', 'can', 'just')
+Frequenza: 15	Token: (',', 'I', '’')
+Frequenza: 14	Token: ('.', 'So', ',')
+Frequenza: 14	Token: ('’', 're', 'going')
+Frequenza: 14	Token: ('re', 'going', 'to')
+Frequenza: 13	Token: ('we', '’', 're')
+Frequenza: 13	Token: ('.', 'We', '’')
+Frequenza: 13	Token: ('.', 'I', '’')
+
+Top 20 4-grammi più frequenti
+Frequenza: 34	Token: ('.', 'It', '’', 's')
+Frequenza: 27	Token: ('I', '’', 've', 'got')
+Frequenza: 16	Token: ('’', 've', 'got', 'a')
+Frequenza: 14	Token: ('’', 're', 'going', 'to')
+Frequenza: 11	Token: ('we', '’', 've', 'got')
+Frequenza: 9	Token: (',', 'it', '’', 's')
+Frequenza: 9	Token: (',', 'let', '’', 's')
+Frequenza: 8	Token: (',', 'I', '’', 've')
+Frequenza: 8	Token: ('if', 'I', 'want', 'to')
+Frequenza: 8	Token: ('.', 'Isn', '’', 't')
+Frequenza: 8	Token: ('.', 'I', '’', 've')
+Frequenza: 7	Token: ('we', '’', 're', 'going')
+Frequenza: 7	Token: ('.', 'So', 'let', '’')
+Frequenza: 7	Token: ('So', 'let', '’', 's')
+Frequenza: 7	Token: ('It', '’', 's', 'got')
+Frequenza: 7	Token: (',', 'we', '’', 've')
+Frequenza: 7	Token: ('I', '’', 'm', 'going')
+Frequenza: 7	Token: ('’', 'm', 'going', 'to')
+Frequenza: 6	Token: ('We', '’', 're', 'going')
+Frequenza: 6	Token: ('.', 'We', '’', 're')
+
+Top 20 5-grammi più frequenti
+Frequenza: 7	Token: ('we', '’', 're', 'going', 'to')
+Frequenza: 7	Token: ('.', 'So', 'let', '’', 's')
+Frequenza: 7	Token: ('.', 'It', '’', 's', 'got')
+Frequenza: 7	Token: (',', 'I', '’', 've', 'got')
+Frequenza: 7	Token: ('I', '’', 've', 'got', 'a')
+Frequenza: 7	Token: ('I', '’', 'm', 'going', 'to')
+Frequenza: 7	Token: ('.', 'I', '’', 've', 'got')
+Frequenza: 6	Token: ('We', '’', 're', 'going', 'to')
+Frequenza: 6	Token: (',', 'we', '’', 've', 'got')
+Frequenza: 5	Token: ('.', 'We', '’', 're', 'going')
+Frequenza: 5	Token: ('’', 's', 'take', 'a', 'look')
+Frequenza: 5	Token: ('s', 'take', 'a', 'look', 'at')
+Frequenza: 5	Token: ('.', 'Isn', '’', 't', 'that')
+Frequenza: 4	Token: ('they', '’', 're', 'not', 'so')
+Frequenza: 4	Token: (',', 'we', '’', 're', 'going')
+Frequenza: 4	Token: ('’', 're', 'going', 'to', 'use')
+Frequenza: 4	Token: ('.', 'It', '’', 's', 'really')
+Frequenza: 4	Token: ('we', '’', 've', 'got', 'a')
+Frequenza: 4	Token: ('’', 've', 'got', 'a', 'little')
+Frequenza: 4	Token: ('.', 'We', '’', 've', 'got')
+
+
+3) Top 20 n-grammi PoS taggati più frequenti del file jobs.txt:
+
+Top 20 1-grammi più frequenti
+Frequenza: 438	Token: (('.', '.'),)
+Frequenza: 387	Token: ((',', ','),)
+Frequenza: 208	Token: (('I', 'PRP'),)
+Frequenza: 171	Token: (('the', 'DT'),)
+Frequenza: 166	Token: (('to', 'TO'),)
+Frequenza: 153	Token: (('and', 'CC'),)
+Frequenza: 130	Token: (('a', 'DT'),)
+Frequenza: 124	Token: (('’', 'VBP'),)
+Frequenza: 99	Token: (('it', 'PRP'),)
+Frequenza: 81	Token: (('you', 'PRP'),)
+Frequenza: 78	Token: (('we', 'PRP'),)
+Frequenza: 68	Token: (('can', 'MD'),)
+Frequenza: 67	Token: (('And', 'CC'),)
+Frequenza: 66	Token: (('is', 'VBZ'),)
+Frequenza: 63	Token: (('just', 'RB'),)
+Frequenza: 61	Token: (('of', 'IN'),)
+Frequenza: 60	Token: (('’', 'NNP'),)
+Frequenza: 60	Token: (('got', 'VBD'),)
+Frequenza: 52	Token: (('in', 'IN'),)
+Frequenza: 52	Token: (('It', 'PRP'),)
+
+Top 20 2-grammi più frequenti
+Frequenza: 72	Token: ((',', ','), ('and', 'CC'))
+Frequenza: 66	Token: (('.', '.'), ('And', 'CC'))
+Frequenza: 65	Token: (('I', 'PRP'), ('’', 'VBP'))
+Frequenza: 52	Token: (('’', 'VBP'), ('ve', 'JJ'))
+Frequenza: 48	Token: (('.', '.'), ('It', 'PRP'))
+Frequenza: 43	Token: (('ve', 'JJ'), ('got', 'VBD'))
+Frequenza: 42	Token: (('I', 'PRP'), ('can', 'MD'))
+Frequenza: 41	Token: ((',', ','), ('I', 'PRP'))
+Frequenza: 38	Token: (('want', 'VBP'), ('to', 'TO'))
+Frequenza: 32	Token: (('It', 'PRP'), ('’', 'VBD'))
+Frequenza: 31	Token: (('I', 'PRP'), ('want', 'VBP'))
+Frequenza: 31	Token: (('.', '.'), ('I', 'PRP'))
+Frequenza: 29	Token: (('we', 'PRP'), ('’', 'VBP'))
+Frequenza: 28	Token: (('going', 'VBG'), ('to', 'TO'))
+Frequenza: 27	Token: (('.', '.'), ('We', 'PRP'))
+Frequenza: 25	Token: (('and', 'CC'), ('I', 'PRP'))
+Frequenza: 23	Token: ((',', ','), ('we', 'PRP'))
+Frequenza: 23	Token: (('.', '.'), ('So', 'RB'))
+Frequenza: 23	Token: (('I', 'PRP'), ('just', 'RB'))
+Frequenza: 21	Token: (('in', 'IN'), ('the', 'DT'))
+
+Top 20 3-grammi più frequenti
+Frequenza: 43	Token: (('’', 'VBP'), ('ve', 'JJ'), ('got', 'VBD'))
+Frequenza: 31	Token: (('.', '.'), ('It', 'PRP'), ('’', 'VBD'))
+Frequenza: 30	Token: (('I', 'PRP'), ('want', 'VBP'), ('to', 'TO'))
+Frequenza: 27	Token: (('I', 'PRP'), ('’', 'VBP'), ('ve', 'JJ'))
+Frequenza: 18	Token: ((',', ','), ('and', 'CC'), ('I', 'PRP'))
+Frequenza: 17	Token: (('It', 'PRP'), ('’', 'VBD'), ('s', 'JJ'))
+Frequenza: 17	Token: (('.', '.'), ('Now', 'RB'), (',', ','))
+Frequenza: 16	Token: (('ve', 'JJ'), ('got', 'VBD'), ('a', 'DT'))
+Frequenza: 16	Token: (('I', 'PRP'), ('can', 'MD'), ('just', 'RB'))
+Frequenza: 15	Token: (('we', 'PRP'), ('’', 'VBP'), ('ve', 'JJ'))
+Frequenza: 15	Token: ((',', ','), ('I', 'PRP'), ('’', 'VBP'))
+Frequenza: 13	Token: (('.', '.'), ('So', 'RB'), (',', ','))
+Frequenza: 13	Token: (('’', 'VBP'), ('re', 'RB'), ('going', 'VBG'))
+Frequenza: 13	Token: (('re', 'RB'), ('going', 'VBG'), ('to', 'TO'))
+Frequenza: 13	Token: (('.', '.'), ('We', 'PRP'), ('’', 'VBP'))
+Frequenza: 13	Token: (('.', '.'), ('I', 'PRP'), ('’', 'VBP'))
+Frequenza: 12	Token: ((',', ','), ('we', 'PRP'), ('’', 'VBP'))
+Frequenza: 12	Token: (('.', '.'), ('And', 'CC'), ('I', 'PRP'))
+Frequenza: 11	Token: (('let', 'VB'), ('’', 'NNP'), ('s', 'VB'))
+Frequenza: 10	Token: (('I', 'PRP'), ('’', 'VBP'), ('m', 'RB'))
+
+
+4) Top 10 bigrammi composti da Aggettivo e Sostantivo del file jobs.txt:
+
+a. Ordinati per frequenza decrescente:
+Frequenza: 7	Bigramma: (('’', 'JJ'), ('t', 'NNS'))
+Frequenza: 6	Bigramma: (('’', 'JJ'), ('t', 'NN'))
+Frequenza: 6	Bigramma: (('mobile', 'JJ'), ('device', 'NN'))
+Frequenza: 4	Bigramma: (('visual', 'JJ'), ('voice', 'NN'))
+Frequenza: 4	Bigramma: (('revolutionary', 'JJ'), ('user', 'NN'))
+Frequenza: 4	Bigramma: (('album', 'JJ'), ('art', 'NN'))
+Frequenza: 3	Bigramma: (('touch', 'JJ'), ('controls', 'NNS'))
+Frequenza: 3	Bigramma: (('t', 'JJ'), ('change', 'NN'))
+Frequenza: 3	Bigramma: (('rich', 'JJ'), ('text', 'NN'))
+Frequenza: 2	Bigramma: (('’', 'JJ'), ('s', 'NNS'))
+
+b. Ordinati per probabilità condizionata massima:
+Probabilità condizionata: 1.0	Bigramma: (('visual', 'JJ'), ('voice', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('usual', 'JJ'), ('suspects', 'NNS'))
+Probabilità condizionata: 1.0	Bigramma: (('upperleft-hand', 'JJ'), ('corner', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('upper', 'JJ'), ('right-hand', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('untypical', 'JJ'), ('way', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('unintended', 'JJ'), ('touches', 'NNS'))
+Probabilità condizionata: 1.0	Bigramma: (('typical', 'JJ'), ('phone', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('two-megapixel', 'JJ'), ('camera', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('three-and-a-half-inch', 'JJ'), ('screen', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('strong', 'JJ'), ('foundation', 'NN'))
+
+c. Ordinati per probabilità congiunta massima:
+Probabilità congiunta: 0.0010	Bigramma: (('’', 'JJ'), ('t', 'NNS'))
+Probabilità congiunta: 0.0009	Bigramma: (('’', 'JJ'), ('t', 'NN'))
+Probabilità congiunta: 0.0009	Bigramma: (('mobile', 'JJ'), ('device', 'NN'))
+Probabilità congiunta: 0.0006	Bigramma: (('visual', 'JJ'), ('voice', 'NN'))
+Probabilità congiunta: 0.0006	Bigramma: (('revolutionary', 'JJ'), ('user', 'NN'))
+Probabilità congiunta: 0.0006	Bigramma: (('album', 'JJ'), ('art', 'NN'))
+Probabilità congiunta: 0.0004	Bigramma: (('t', 'JJ'), ('change', 'NN'))
+Probabilità congiunta: 0.0004	Bigramma: (('touch', 'JJ'), ('controls', 'NNS'))
+Probabilità congiunta: 0.0004	Bigramma: (('rich', 'JJ'), ('text', 'NN'))
+Probabilità congiunta: 0.0003	Bigramma: (('’', 'JJ'), ('s', 'NNS'))
+
+d. Ordinati per Mutual Information massima:
+Mutual Information: 12.72	Bigramma: (('usual', 'JJ'), ('suspects', 'NNS'))
+Mutual Information: 12.72	Bigramma: (('unintended', 'JJ'), ('touches', 'NNS'))
+Mutual Information: 12.72	Bigramma: (('strong', 'JJ'), ('foundation', 'NN'))
+Mutual Information: 12.72	Bigramma: (('spurious', 'JJ'), ('inputs', 'NNS'))
+Mutual Information: 12.72	Bigramma: (('sophisticated', 'JJ'), ('operating', 'NN'))
+Mutual Information: 12.72	Bigramma: (('regular', 'JJ'), ('cell', 'NN'))
+Mutual Information: 12.72	Bigramma: (('quick', 'JJ'), ('tour', 'NN'))
+Mutual Information: 12.72	Bigramma: (('proud', 'JJ'), ('father', 'NN'))
+Mutual Information: 12.72	Bigramma: (('physical', 'JJ'), ('objects', 'NNS'))
+Mutual Information: 12.72	Bigramma: (('own', 'JJ'), ('hardware.', 'NN'))
+
+e. Ordinati per Local Mutual Information massima:
+Local Mutual Information: 47.05	Bigramma: (('mobile', 'JJ'), ('device', 'NN'))
+Local Mutual Information: 38.19	Bigramma: (('album', 'JJ'), ('art', 'NN'))
+Local Mutual Information: 36.07	Bigramma: (('visual', 'JJ'), ('voice', 'NN'))
+Local Mutual Information: 33.03	Bigramma: (('revolutionary', 'JJ'), ('user', 'NN'))
+Local Mutual Information: 29.15	Bigramma: (('rich', 'JJ'), ('text', 'NN'))
+Local Mutual Information: 23.43	Bigramma: (('upper', 'JJ'), ('right-hand', 'NN'))
+Local Mutual Information: 22.26	Bigramma: (('random', 'JJ'), ('access', 'NN'))
+Local Mutual Information: 21.97	Bigramma: (('touch', 'JJ'), ('controls', 'NNS'))
+Local Mutual Information: 21.43	Bigramma: (('two-megapixel', 'JJ'), ('camera', 'NN'))
+Local Mutual Information: 21.43	Bigramma: (('audio', 'JJ'), ('books', 'NNS'))
+
+f. Elementi comuni tra top 10 MI e LMI:
+Non c'è nessun elemento in comune.
+
+
+5) Frasi del file jobs.txt con lunghezza tra 10 e 20 token, di cui almeno la metà non è un hapax:
+
+a. Frase con la media di distribuzione frequenza dei token più alta:
+And the problem is that they’re not so
+smart and they’re not so easy to use, and so if you kind of make a Business School 101
+graph of the smart axis and the easy-to-use axis, phones, regular cell phones are right there,
+they’re not so smart, and they’re not so easy to use.
+
+b. Frase con la media di distribuzione frequenza dei token più bassa:
+This is the day I’ve been looking forward to for two and a half years.
+
+c. Frase con probabilità più alta seconda modello di Markov 2° ordine:
+But you get the idea.
+
+
+6) Entità nominate del file jobs.txt:
+
+Per la classe PERSON i primi 15 (ove presenti) per frequenza decrescente:
+Token: Jony | Frequenza: 15
+Token: Phil | Frequenza: 14
+Token: Isn | Frequenza: 8
+Token: Again | Frequenza: 5
+Token: Yahoo | Frequenza: 4
+Token: Apple | Frequenza: 3
+Token: Alrighty | Frequenza: 3
+Token: Boom | Frequenza: 3
+Token: Eddie | Frequenza: 3
+Token: Google | Frequenza: 3
+Token: Alan | Frequenza: 2
+Token: Right | Frequenza: 2
+Token: Pepper | Frequenza: 2
+Token: Video | Frequenza: 2
+Token: Wouldn | Frequenza: 2
+
+Per la classe ORGANIZATION i primi 15 (ove presenti) per frequenza decrescente:
+Token: iPod | Frequenza: 17
+Token: iPhone | Frequenza: 15
+Token: IMAP | Frequenza: 9
+Token: iTunes | Frequenza: 6
+Token: SMS | Frequenza: 5
+Token: Mac | Frequenza: 4
+Token: GSM | Frequenza: 3
+Token: EDGE | Frequenza: 3
+Token: POP3 | Frequenza: 3
+Token: BlackBerry | Frequenza: 2
+Token: OSX | Frequenza: 2
+Token: HTML | Frequenza: 2
+Token: Yahoo | Frequenza: 2
+Token: Macintosh | Frequenza: 1
+Token: Business | Frequenza: 1
+
+Per la classe GPE i primi 15 (ove presenti) per frequenza decrescente:
+Token: Safari | Frequenza: 2
+Token: Cocoa | Frequenza: 1
+Token: Photos | Frequenza: 1
+Token: Beatles | Frequenza: 1
+Token: Great | Frequenza: 1
+Token: Apple | Frequenza: 1
+Token: European | Frequenza: 1
+Token: Phil | Frequenza: 1
+Token: Italy | Frequenza: 1
+
+Per la classe FACILITY i primi 15 (ove presenti) per frequenza decrescente:
+Token: The | Frequenza: 1
+
+Per la classe LOCATION i primi 15 (ove presenti) per frequenza decrescente:
+Token: Caribbean | Frequenza: 2

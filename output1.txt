@@ -1,0 +1,130 @@
+
+Progetto LC 2023/2024 | Alessandra Bottiglieri | 648769 | Programma I
+
+
+1) Comparazione lunghezza tra metamorphosis.txt e jobs.txt:
+Il numero di frasi del file metamorphosis.txt è: 269
+Il numero di frasi del file jobs.txt è: 493
+Il numero di token del file metamorphosis.txt è: 8280
+Il numero di token del file jobs.txt è: 6732
+
+
+2) Confronto lunghezza media frasi in token dei file:
+La lunghezza media delle frasi in token del file metamorphosis.txt è: 30.78
+La lunghezza media delle frasi in token del file jobs.txt è: 13.66
+
+Confronto lunghezza media token in caratteri dei file:
+La lunghezza media dei token del file metamorphosis.txt è: 4.02
+La lunghezza media dei token del file jobs.txt è: 3.68
+
+
+3) Confronto numero di hapax tra i due file:
+Numero di hapax del primo file metamorphosis.txt:
+Il numero di hapax per i primi 500 token del file metamorphosis.txt è: 2.18
+Il numero di hapax per i primi 1000 token del file metamorphosis.txt è: 1.56
+Il numero di hapax per i primi 3000 token del file metamorphosis.txt è: 1.08
+Il numero di hapax per l'intero corpus di metamorphosis.txt è: 1468
+
+Numero di hapax del secondo file jobs.txt:
+Il numero di hapax per i primi 500 token del file jobs.txt è: 1.16
+Il numero di hapax per i primi 1000 token del file jobs.txt è: 0.85
+Il numero di hapax per i primi 3000 token del file jobs.txt è: 0.67
+Il numero di hapax per l'intero corpus di jobs.txt è: 987
+
+
+4) Confronto dimensione vocabolario e TTR tra i due file:
+La dimensione del vocabolario del file metamorphosis.txt è: 1468
+La dimensione del vocabolario del file jobs.txt è: 987
+
+Type-Token Ratio del file metamorphosis.txt:
+La Type-Token Ratio per i primi 200 token è: 0.69
+La Type-Token Ratio per i primi 400 token è: 0.57
+La Type-Token Ratio per i primi 600 token è: 0.50
+La Type-Token Ratio per i primi 800 token è: 0.45
+La Type-Token Ratio per i primi 1000 token è: 0.41
+La Type-Token Ratio per i primi 1200 token è: 0.39
+La Type-Token Ratio per i primi 1400 token è: 0.37
+La Type-Token Ratio per i primi 1600 token è: 0.36
+La Type-Token Ratio per i primi 1800 token è: 0.34
+La Type-Token Ratio per i primi 2000 token è: 0.33
+La Type-Token Ratio per i primi 2200 token è: 0.31
+La Type-Token Ratio per i primi 2400 token è: 0.30
+La Type-Token Ratio per i primi 2600 token è: 0.29
+La Type-Token Ratio per i primi 2800 token è: 0.28
+La Type-Token Ratio per i primi 3000 token è: 0.28
+La Type-Token Ratio per i primi 3200 token è: 0.27
+La Type-Token Ratio per i primi 3400 token è: 0.26
+La Type-Token Ratio per i primi 3600 token è: 0.26
+La Type-Token Ratio per i primi 3800 token è: 0.25
+La Type-Token Ratio per i primi 4000 token è: 0.24
+La Type-Token Ratio per i primi 4200 token è: 0.24
+La Type-Token Ratio per i primi 4400 token è: 0.23
+La Type-Token Ratio per i primi 4600 token è: 0.23
+La Type-Token Ratio per i primi 4800 token è: 0.22
+La Type-Token Ratio per i primi 5000 token è: 0.22
+La Type-Token Ratio per i primi 5200 token è: 0.21
+La Type-Token Ratio per i primi 5400 token è: 0.21
+La Type-Token Ratio per i primi 5600 token è: 0.21
+La Type-Token Ratio per i primi 5800 token è: 0.20
+La Type-Token Ratio per i primi 6000 token è: 0.20
+La Type-Token Ratio per i primi 6200 token è: 0.20
+La Type-Token Ratio per i primi 6400 token è: 0.20
+La Type-Token Ratio per i primi 6600 token è: 0.20
+La Type-Token Ratio per i primi 6800 token è: 0.19
+La Type-Token Ratio per i primi 7000 token è: 0.19
+La Type-Token Ratio per i primi 7200 token è: 0.19
+La Type-Token Ratio per i primi 7400 token è: 0.19
+La Type-Token Ratio per i primi 7600 token è: 0.18
+La Type-Token Ratio per i primi 7800 token è: 0.18
+La Type-Token Ratio per i primi 8000 token è: 0.18
+La Type-Token Ratio per i primi 8200 token è: 0.18
+La Type-Token Ratio per i primi 8280 token è: 0.18
+
+Type-Token Ratio del file jobs.txt:
+La Type-Token Ratio per i primi 200 token è: 0.51
+La Type-Token Ratio per i primi 400 token è: 0.41
+La Type-Token Ratio per i primi 600 token è: 0.37
+La Type-Token Ratio per i primi 800 token è: 0.33
+La Type-Token Ratio per i primi 1000 token è: 0.29
+La Type-Token Ratio per i primi 1200 token è: 0.27
+La Type-Token Ratio per i primi 1400 token è: 0.26
+La Type-Token Ratio per i primi 1600 token è: 0.26
+La Type-Token Ratio per i primi 1800 token è: 0.25
+La Type-Token Ratio per i primi 2000 token è: 0.24
+La Type-Token Ratio per i primi 2200 token è: 0.23
+La Type-Token Ratio per i primi 2400 token è: 0.23
+La Type-Token Ratio per i primi 2600 token è: 0.22
+La Type-Token Ratio per i primi 2800 token è: 0.21
+La Type-Token Ratio per i primi 3000 token è: 0.21
+La Type-Token Ratio per i primi 3200 token è: 0.20
+La Type-Token Ratio per i primi 3400 token è: 0.20
+La Type-Token Ratio per i primi 3600 token è: 0.19
+La Type-Token Ratio per i primi 3800 token è: 0.19
+La Type-Token Ratio per i primi 4000 token è: 0.19
+La Type-Token Ratio per i primi 4200 token è: 0.18
+La Type-Token Ratio per i primi 4400 token è: 0.18
+La Type-Token Ratio per i primi 4600 token è: 0.17
+La Type-Token Ratio per i primi 4800 token è: 0.17
+La Type-Token Ratio per i primi 5000 token è: 0.16
+La Type-Token Ratio per i primi 5200 token è: 0.16
+La Type-Token Ratio per i primi 5400 token è: 0.16
+La Type-Token Ratio per i primi 5600 token è: 0.16
+La Type-Token Ratio per i primi 5800 token è: 0.15
+La Type-Token Ratio per i primi 6000 token è: 0.15
+La Type-Token Ratio per i primi 6200 token è: 0.15
+La Type-Token Ratio per i primi 6400 token è: 0.15
+La Type-Token Ratio per i primi 6600 token è: 0.15
+La Type-Token Ratio per i primi 6732 token è: 0.15
+
+
+5) Il numero di lemmi distinti in entrambi i file:
+La dimensione del vocabolario dei lemmi distinti del file metamorphosis.txt è: 1424
+La dimensione del vocabolario dei lemmi distinti del file jobs.txt è: 931
+
+
+6) Confronto corpora dei file metamorphosis.txt e jobs.txt per polarità positiva e negativa:
+Distribuzione frasi polarità positiva e negativa del file metamorphosis.txt
+Ci sono 184 frasi con polarità negativa e 85 con polarità positiva, quindi sono più le frasi con polarità negativa.
+
+Distribuzione frasi polarità positiva e negativa del file jobs.txt
+Ci sono 380 frasi con polarità negativa e 113 con polarità positiva, quindi sono più le frasi con polarità negativa.

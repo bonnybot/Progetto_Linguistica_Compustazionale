@@ -1,0 +1,353 @@
+
+Progetto LC 2023/2024 | Alessandra Bottiglieri | 648769 | Programma II
+
+
+1) Top 50 sostantivi, avverbi e aggettivi più frequenti del file metamorphosis.txt:
+
+Frequenza: 54	Token: not
+Frequenza: 36	Token: clerk
+Frequenza: 31	Token: ’
+Frequenza: 28	Token: door
+Frequenza: 25	Token: s
+Frequenza: 25	Token: now
+Frequenza: 24	Token: ”
+Frequenza: 24	Token: room
+Frequenza: 23	Token: chief
+Frequenza: 22	Token: then
+Frequenza: 22	Token: father
+Frequenza: 21	Token: way
+Frequenza: 21	Token: so
+Frequenza: 20	Token: bed
+Frequenza: 19	Token: time
+Frequenza: 19	Token: still
+Frequenza: 19	Token: only
+Frequenza: 19	Token: little
+Frequenza: 18	Token: well
+Frequenza: 17	Token: “
+Frequenza: 17	Token: there
+Frequenza: 17	Token: t
+Frequenza: 17	Token: back
+Frequenza: 16	Token: just
+Frequenza: 16	Token: head
+Frequenza: 15	Token: even
+Frequenza: 14	Token: quite
+Frequenza: 14	Token: parents
+Frequenza: 13	Token: very
+Frequenza: 13	Token: chief
+Frequenza: 13	Token: as
+Frequenza: 12	Token: other
+Frequenza: 12	Token: more
+Frequenza: 11	Token: voice
+Frequenza: 11	Token: something
+Frequenza: 11	Token: sister
+Frequenza: 11	Token: side
+Frequenza: 11	Token: body
+Frequenza: 10	Token: s
+Frequenza: 10	Token: mother
+Frequenza: 10	Token: clock
+Frequenza: 10	Token: already
+Frequenza: 9	Token: too
+Frequenza: 9	Token: soon
+Frequenza: 9	Token: slowly
+Frequenza: 9	Token: really
+Frequenza: 9	Token: possible
+Frequenza: 9	Token: first
+Frequenza: 9	Token: business
+Frequenza: 9	Token: boss
+
+
+2) Top 20 n-grammi più frequenti del file metamorphosis.txt:
+
+Top 20 1-grammi più frequenti
+Frequenza: 414	Token: (',',)
+Frequenza: 366	Token: ('the',)
+Frequenza: 251	Token: ('to',)
+Frequenza: 235	Token: ('.',)
+Frequenza: 207	Token: ('he',)
+Frequenza: 167	Token: ('his',)
+Frequenza: 161	Token: ('and',)
+Frequenza: 149	Token: ('of',)
+Frequenza: 145	Token: ('’',)
+Frequenza: 131	Token: ('was',)
+Frequenza: 106	Token: ('a',)
+Frequenza: 105	Token: ('that',)
+Frequenza: 99	Token: ('in',)
+Frequenza: 91	Token: ('it',)
+Frequenza: 85	Token: ('Gregor',)
+Frequenza: 76	Token: ('as',)
+Frequenza: 75	Token: ('had',)
+Frequenza: 66	Token: ('I',)
+Frequenza: 61	Token: (';',)
+Frequenza: 60	Token: ('“',)
+
+Top 20 2-grammi più frequenti
+Frequenza: 59	Token: ('’', 's')
+Frequenza: 50	Token: (',', 'and')
+Frequenza: 37	Token: ('of', 'the')
+Frequenza: 36	Token: ('chief', 'clerk')
+Frequenza: 34	Token: ('’', 't')
+Frequenza: 33	Token: ('the', 'chief')
+Frequenza: 31	Token: (',', 'he')
+Frequenza: 30	Token: ('I', '’')
+Frequenza: 27	Token: ('”', ',')
+Frequenza: 27	Token: (',', 'but')
+Frequenza: 25	Token: ('.', '“')
+Frequenza: 24	Token: ('.', 'He')
+Frequenza: 23	Token: ('as', 'he')
+Frequenza: 23	Token: ('he', 'had')
+Frequenza: 23	Token: ('he', 'was')
+Frequenza: 21	Token: ('on', 'the')
+Frequenza: 21	Token: ('in', 'the')
+Frequenza: 20	Token: ('to', 'the')
+Frequenza: 19	Token: ('that', 'he')
+Frequenza: 19	Token: ('the', 'door')
+
+Top 20 3-grammi più frequenti
+Frequenza: 33	Token: ('the', 'chief', 'clerk')
+Frequenza: 15	Token: ('I', '’', 'm')
+Frequenza: 14	Token: ('Gregor', '’', 's')
+Frequenza: 11	Token: ('”', ',', 'said')
+Frequenza: 10	Token: ('don', '’', 't')
+Frequenza: 9	Token: ('of', 'his', 'body')
+Frequenza: 8	Token: ('”', ',', 'he')
+Frequenza: 8	Token: ('it', '’', 's')
+Frequenza: 8	Token: ('I', '’', 'll')
+Frequenza: 8	Token: ('out', 'of', 'the')
+Frequenza: 8	Token: ('.', 'I', '’')
+Frequenza: 7	Token: ('didn', '’', 't')
+Frequenza: 6	Token: ('o', '’', 'clock')
+Frequenza: 6	Token: ('of', 'the', 'bed')
+Frequenza: 6	Token: ('said', 'to', 'himself')
+Frequenza: 6	Token: (',', 'though', ',')
+Frequenza: 5	Token: ('that', 'he', 'had')
+Frequenza: 5	Token: ('that', 'I', '’')
+Frequenza: 5	Token: ('that', 'it', 'was')
+Frequenza: 5	Token: ('what', '’', 's')
+
+Top 20 4-grammi più frequenti
+Frequenza: 7	Token: ('.', 'I', '’', 'm')
+Frequenza: 6	Token: ('out', 'of', 'the', 'bed')
+Frequenza: 5	Token: ('”', ',', 'said', 'Gregor')
+Frequenza: 5	Token: ('the', 'chief', 'clerk', ',')
+Frequenza: 4	Token: ('part', 'of', 'his', 'body')
+Frequenza: 4	Token: ('he', 'said', 'to', 'himself')
+Frequenza: 4	Token: ('”', ',', 'said', 'the')
+Frequenza: 4	Token: (',', 'said', 'the', 'chief')
+Frequenza: 4	Token: ('said', 'the', 'chief', 'clerk')
+Frequenza: 4	Token: ('the', 'chief', 'clerk', 'in')
+Frequenza: 4	Token: ('Gregor', '’', 's', 'father')
+Frequenza: 4	Token: ('that', 'I', '’', 'm')
+Frequenza: 3	Token: ('”', ',', 'he', 'thought')
+Frequenza: 3	Token: (',', 'he', 'thought', ',')
+Frequenza: 3	Token: ('’', 't', 'know', 'what')
+Frequenza: 3	Token: ('I', 'didn', '’', 't')
+Frequenza: 3	Token: ('quarter', 'to', 'seven', '.')
+Frequenza: 3	Token: ('said', 'to', 'himself', ',')
+Frequenza: 3	Token: ('the', 'lower', 'part', 'of')
+Frequenza: 3	Token: ('lower', 'part', 'of', 'his')
+
+Top 20 5-grammi più frequenti
+Frequenza: 4	Token: ('”', ',', 'said', 'the', 'chief')
+Frequenza: 4	Token: (',', 'said', 'the', 'chief', 'clerk')
+Frequenza: 3	Token: ('”', ',', 'he', 'thought', ',')
+Frequenza: 3	Token: ('the', 'lower', 'part', 'of', 'his')
+Frequenza: 3	Token: ('lower', 'part', 'of', 'his', 'body')
+Frequenza: 3	Token: ('of', 'his', 'body', 'out', 'of')
+Frequenza: 3	Token: ('his', 'body', 'out', 'of', 'the')
+Frequenza: 3	Token: ('body', 'out', 'of', 'the', 'bed')
+Frequenza: 3	Token: ('”', ',', 'he', 'said', 'to')
+Frequenza: 3	Token: ('the', 'chief', 'clerk', '’', 's')
+Frequenza: 2	Token: ('’', 's', 'happened', 'to', 'me')
+Frequenza: 2	Token: ('”', 'he', 'thought', '.', 'It')
+Frequenza: 2	Token: ('.', '“', 'Oh', ',', 'God')
+Frequenza: 2	Token: (',', 'he', 'thought', ',', '“')
+Frequenza: 2	Token: ('didn', '’', 't', 'know', 'what')
+Frequenza: 2	Token: ('’', 't', 'know', 'what', 'to')
+Frequenza: 2	Token: ('’', 've', 'got', 'to', 'get')
+Frequenza: 2	Token: ('out', 'of', 'the', 'bed', ',')
+Frequenza: 2	Token: ('.', '“', 'Gregor', '”', ',')
+Frequenza: 2	Token: ('.', 'The', 'first', 'thing', 'he')
+
+
+3) Top 20 n-grammi PoS taggati più frequenti del file metamorphosis.txt:
+
+Top 20 1-grammi più frequenti
+Frequenza: 414	Token: ((',', ','),)
+Frequenza: 366	Token: (('the', 'DT'),)
+Frequenza: 251	Token: (('to', 'TO'),)
+Frequenza: 235	Token: (('.', '.'),)
+Frequenza: 207	Token: (('he', 'PRP'),)
+Frequenza: 167	Token: (('his', 'PRP$'),)
+Frequenza: 161	Token: (('and', 'CC'),)
+Frequenza: 149	Token: (('of', 'IN'),)
+Frequenza: 131	Token: (('was', 'VBD'),)
+Frequenza: 106	Token: (('a', 'DT'),)
+Frequenza: 99	Token: (('in', 'IN'),)
+Frequenza: 91	Token: (('it', 'PRP'),)
+Frequenza: 83	Token: (('Gregor', 'NNP'),)
+Frequenza: 73	Token: (('that', 'IN'),)
+Frequenza: 72	Token: (('had', 'VBD'),)
+Frequenza: 66	Token: (('I', 'PRP'),)
+Frequenza: 63	Token: (('as', 'IN'),)
+Frequenza: 61	Token: ((';', ':'),)
+Frequenza: 58	Token: (('with', 'IN'),)
+Frequenza: 54	Token: (('not', 'RB'),)
+
+Top 20 2-grammi più frequenti
+Frequenza: 50	Token: ((',', ','), ('and', 'CC'))
+Frequenza: 37	Token: (('of', 'IN'), ('the', 'DT'))
+Frequenza: 31	Token: ((',', ','), ('he', 'PRP'))
+Frequenza: 30	Token: (('I', 'PRP'), ('’', 'VBP'))
+Frequenza: 27	Token: ((',', ','), ('but', 'CC'))
+Frequenza: 24	Token: (('.', '.'), ('He', 'PRP'))
+Frequenza: 23	Token: (('as', 'IN'), ('he', 'PRP'))
+Frequenza: 23	Token: (('he', 'PRP'), ('had', 'VBD'))
+Frequenza: 23	Token: (('he', 'PRP'), ('was', 'VBD'))
+Frequenza: 23	Token: (('chief', 'JJ'), ('clerk', 'NN'))
+Frequenza: 21	Token: (('on', 'IN'), ('the', 'DT'))
+Frequenza: 21	Token: (('in', 'IN'), ('the', 'DT'))
+Frequenza: 20	Token: (('to', 'TO'), ('the', 'DT'))
+Frequenza: 20	Token: (('the', 'DT'), ('chief', 'JJ'))
+Frequenza: 19	Token: (('that', 'IN'), ('he', 'PRP'))
+Frequenza: 19	Token: (('the', 'DT'), ('door', 'NN'))
+Frequenza: 18	Token: (('’', 'NNP'), ('s', 'NN'))
+Frequenza: 18	Token: (('his', 'PRP$'), ('father', 'NN'))
+Frequenza: 17	Token: (('he', 'PRP'), ('could', 'MD'))
+Frequenza: 17	Token: (('from', 'IN'), ('the', 'DT'))
+
+Top 20 3-grammi più frequenti
+Frequenza: 20	Token: (('the', 'DT'), ('chief', 'JJ'), ('clerk', 'NN'))
+Frequenza: 13	Token: (('the', 'DT'), ('chief', 'NN'), ('clerk', 'NN'))
+Frequenza: 9	Token: (('of', 'IN'), ('his', 'PRP$'), ('body', 'NN'))
+Frequenza: 8	Token: (('out', 'IN'), ('of', 'IN'), ('the', 'DT'))
+Frequenza: 8	Token: (('.', '.'), ('I', 'PRP'), ('’', 'VBP'))
+Frequenza: 7	Token: (('I', 'PRP'), ('’', 'VBP'), ('m', 'JJ'))
+Frequenza: 6	Token: (('of', 'IN'), ('the', 'DT'), ('bed', 'NN'))
+Frequenza: 6	Token: (('said', 'VBD'), ('to', 'TO'), ('himself', 'PRP'))
+Frequenza: 6	Token: (('”', 'NNP'), (',', ','), ('said', 'VBD'))
+Frequenza: 6	Token: (('Gregor', 'NNP'), ('’', 'NNP'), ('s', 'NN'))
+Frequenza: 5	Token: (('that', 'IN'), ('he', 'PRP'), ('had', 'VBD'))
+Frequenza: 5	Token: (('that', 'IN'), ('I', 'PRP'), ('’', 'VBP'))
+Frequenza: 5	Token: (('that', 'IN'), ('it', 'PRP'), ('was', 'VBD'))
+Frequenza: 5	Token: (('I', 'PRP'), ('’', 'VBP'), ('ll', 'JJ'))
+Frequenza: 5	Token: (('the', 'DT'), ('other', 'JJ'), ('side', 'NN'))
+Frequenza: 5	Token: (('he', 'PRP'), ('wanted', 'VBD'), ('to', 'TO'))
+Frequenza: 5	Token: (('he', 'PRP'), ('said', 'VBD'), ('to', 'TO'))
+Frequenza: 5	Token: ((',', ','), ('said', 'VBD'), ('Gregor', 'NNP'))
+Frequenza: 5	Token: (('chief', 'NN'), ('clerk', 'NN'), (',', ','))
+Frequenza: 5	Token: (('I', 'PRP'), ('’', 'VBP'), ('m', 'RB'))
+
+
+4) Top 10 bigrammi composti da Aggettivo e Sostantivo del file metamorphosis.txt:
+
+a. Ordinati per frequenza decrescente:
+Frequenza: 23	Bigramma: (('chief', 'JJ'), ('clerk', 'NN'))
+Frequenza: 12	Bigramma: (('’', 'JJ'), ('t', 'NN'))
+Frequenza: 7	Bigramma: (('’', 'JJ'), ('t', 'NNS'))
+Frequenza: 5	Bigramma: (('other', 'JJ'), ('side', 'NN'))
+Frequenza: 4	Bigramma: (('’', 'JJ'), ('s', 'NN'))
+Frequenza: 4	Bigramma: (('lower', 'JJR'), ('part', 'NN'))
+Frequenza: 3	Bigramma: (('little', 'JJ'), ('legs', 'NN'))
+Frequenza: 2	Bigramma: (('’', 'JJ'), ('clock', 'NN'))
+Frequenza: 2	Bigramma: (('same', 'JJ'), ('time', 'NN'))
+Frequenza: 2	Bigramma: (('right', 'JJ'), ('hand', 'NN'))
+
+b. Ordinati per probabilità condizionata massima:
+Probabilità condizionata: 1.0	Bigramma: (('wooden', 'JJ'), ('door', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('wish', 'JJ'), ('whatsoever', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('wild', 'JJ'), ('man', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('unthinking', 'JJ'), ('way', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('unnecessary', 'JJ'), ('concern', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('unbearable', 'JJ'), ('hissing', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('troubled', 'JJ'), ('dreams', 'NNS'))
+Probabilità condizionata: 1.0	Bigramma: (('total', 'JJ'), ('stillness', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('supernatural', 'JJ'), ('force', 'NN'))
+Probabilità condizionata: 1.0	Bigramma: (('suitable', 'JJ'), ('excuse', 'NN'))
+
+c. Ordinati per probabilità congiunta massima:
+Probabilità congiunta: 0.0028	Bigramma: (('chief', 'JJ'), ('clerk', 'NN'))
+Probabilità congiunta: 0.0014	Bigramma: (('’', 'JJ'), ('t', 'NN'))
+Probabilità congiunta: 0.0008	Bigramma: (('’', 'JJ'), ('t', 'NNS'))
+Probabilità congiunta: 0.0006	Bigramma: (('other', 'JJ'), ('side', 'NN'))
+Probabilità congiunta: 0.0005	Bigramma: (('’', 'JJ'), ('s', 'NN'))
+Probabilità congiunta: 0.0005	Bigramma: (('lower', 'JJR'), ('part', 'NN'))
+Probabilità congiunta: 0.0004	Bigramma: (('little', 'JJ'), ('legs', 'NN'))
+Probabilità congiunta: 0.0002	Bigramma: (('’', 'JJ'), ('clock', 'NN'))
+Probabilità congiunta: 0.0002	Bigramma: (('right', 'JJ'), ('hand', 'NN'))
+Probabilità congiunta: 0.0002	Bigramma: (('same', 'JJ'), ('time', 'NN'))
+
+d. Ordinati per Mutual Information massima:
+Mutual Information: 13.02	Bigramma: (('wish', 'JJ'), ('whatsoever', 'NN'))
+Mutual Information: 13.02	Bigramma: (('troubled', 'JJ'), ('dreams', 'NNS'))
+Mutual Information: 13.02	Bigramma: (('total', 'JJ'), ('stillness', 'NN'))
+Mutual Information: 13.02	Bigramma: (('strenuous', 'JJ'), ('career', 'NN'))
+Mutual Information: 13.02	Bigramma: (('stiff', 'JJ'), ('sections', 'NNS'))
+Mutual Information: 13.02	Bigramma: (('secret', 'JJ'), ('prohibition', 'NN'))
+Mutual Information: 13.02	Bigramma: (('pure', 'JJ'), ('imagination', 'NN'))
+Mutual Information: 13.02	Bigramma: (('pleasant', 'JJ'), ('experience', 'NN'))
+Mutual Information: 13.02	Bigramma: (('peculiar', 'JJ'), ('whims', 'NNS'))
+Mutual Information: 13.02	Bigramma: (('occupational', 'JJ'), ('hazard', 'NN'))
+
+e. Ordinati per Local Mutual Information massima:
+Local Mutual Information: 165.58	Bigramma: (('chief', 'JJ'), ('clerk', 'NN'))
+Local Mutual Information: 52.00	Bigramma: (('’', 'JJ'), ('t', 'NN'))
+Local Mutual Information: 40.84	Bigramma: (('other', 'JJ'), ('side', 'NN'))
+Local Mutual Information: 39.38	Bigramma: (('lower', 'JJR'), ('part', 'NN'))
+Local Mutual Information: 24.89	Bigramma: (('’', 'JJ'), ('t', 'NNS'))
+Local Mutual Information: 20.86	Bigramma: (('double', 'JJ'), ('doors', 'NNS'))
+Local Mutual Information: 20.30	Bigramma: (('little', 'JJ'), ('legs', 'NN'))
+Local Mutual Information: 20.22	Bigramma: (('last', 'JJ'), ('night', 'NN'))
+Local Mutual Information: 19.69	Bigramma: (('better', 'JJR'), ('overview', 'NN'))
+Local Mutual Information: 19.39	Bigramma: (('present', 'JJ'), ('state', 'NN'))
+
+f. Elementi comuni tra top 10 MI e LMI:
+Non c'è nessun elemento in comune.
+
+
+5) Frasi del file metamorphosis.txt con lunghezza tra 10 e 20 token, di cui almeno la metà non è un hapax:
+
+a. Frase con la media di distribuzione frequenza dei token più alta:
+The first thing he wanted to do was get the lower part of his body out
+of the bed, but he had never seen this lower part, and could not
+imagine what it looked like; it turned out to be too hard to move; it
+went so slowly; and finally, almost in a frenzy, when he carelessly
+shoved himself forwards with all the force he could gather, he chose
+the wrong direction, hit hard against the lower bedpost, and learned
+from the burning pain he felt that the lower part of his body might
+well, at present, be the most sensitive.
+
+b. Frase con la media di distribuzione frequenza dei token più bassa:
+“What’s happened to me?” he thought.
+
+c. Frase con probabilità più alta seconda modello di Markov 2° ordine:
+The door was slammed shut with the stick, then, finally, all
+was quiet.
+
+
+6) Entità nominate del file metamorphosis.txt:
+
+Per la classe GPE i primi 15 (ove presenti) per frequenza decrescente:
+Token: Gregor | Frequenza: 36
+Token: Metamorphosis | Frequenza: 1
+Token: Heaven | Frequenza: 1
+Token: Grete | Frequenza: 1
+
+Per la classe PERSON i primi 15 (ove presenti) per frequenza decrescente:
+Token: Gregor | Frequenza: 47
+Token: God | Frequenza: 2
+Token: Mr. | Frequenza: 2
+Token: Samsa | Frequenza: 2
+Token: Mother | Frequenza: 2
+Token: Anna | Frequenza: 2
+Token: Help | Frequenza: 2
+Token: Franz | Frequenza: 1
+Token: David | Frequenza: 1
+Token: Didn | Frequenza: 1
+Token: Aren | Frequenza: 1
+Token: Anyway | Frequenza: 1
+Token: Sir | Frequenza: 1
+Token: Please | Frequenza: 1
+Token: Grete | Frequenza: 1
+
+Per la classe ORGANIZATION i primi 15 (ove presenti) per frequenza decrescente:
+Token: Hell | Frequenza: 1
