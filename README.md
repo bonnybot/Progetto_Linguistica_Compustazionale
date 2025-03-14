@@ -14,6 +14,27 @@ Il progetto si compone di due programmi principali:
 
 ---
 
+## 🔧 Installazione
+1. **Clonare il repository**
+   ```bash
+   git clone https://github.com/tuo-username/Progetto_Linguistica_Computazionale.git
+   cd linguistica-computazionale
+   ```
+
+2. **Creare un ambiente virtuale (opzionale ma consigliato)**
+   ```bash
+   python -m venv env
+   source env/bin/activate  # Mac/Linux
+   env\Scripts\activate  # Windows
+   ```
+
+3. **Installare le dipendenze**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+
 ## 📂 Struttura del Progetto
 ```
 📁 Progetto_Linguistica_Computazionale
